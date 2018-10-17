@@ -10,6 +10,8 @@ In all these 3 directories, code can be run by using the file <code>./analysis_*
 
 The GUI can be run using <code>./main.py</code>. 
 
+An example is shown in directory <code>./analysis_final/</code>. The decription of process used is given in the report.
+
 
 
 
